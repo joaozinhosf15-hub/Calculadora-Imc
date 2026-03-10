@@ -1,1 +1,1 @@
-Uma calculadora imc feita em python 
+Uma calculadora feita em python para auxiliar no calculo imc
